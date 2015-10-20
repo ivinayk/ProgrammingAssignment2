@@ -1,7 +1,9 @@
+##
 ## Function to do the following
 ## Create a special matrix that can remember its inverse, once calculated
 ## If inverse has not been calculated, calculate and return it;
 ## If inverse exists (already calculated), then just return it
+##
 
 ## Function to create the special matrix, described above
 
